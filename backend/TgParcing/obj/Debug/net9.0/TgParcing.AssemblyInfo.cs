@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TgParcing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3da9cdf1058ba768b623814edf8b1c5a925901")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff76244d6ecb3dcf0a261931ecbdc8d505cd97fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TgParcing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TgParcing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
